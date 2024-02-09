@@ -12,7 +12,7 @@ custom Tensroflow deep learning models; a pytorch version is in development.
 ### Install from source
 Clone the repo
 ```shell
-git clone https://code.ornl.gov/3t6/DL-interpretability.git
+git clone https://github.com/aspannaus/DL-interpretability.git
 ```
 Load the working branch and pull in the subrepos
 ```shell
